@@ -39,8 +39,8 @@
 > apt install imagemagick -y
 > termux-setup-storage
 > cd storage/downloads
-> git clone https://github.com/BrunoSobrino/ShadowBotV3
-> cd ShadowBotV3
+> git clone https://github.com/CRAYSON2022/UPEAMIGOS
+> cd UPEAMIGOS
 > npm install
 > npm install -g npm@8.4.0
 > npm update
@@ -66,12 +66,12 @@ obtener nuevamente el codigo QR, escribe en el termux:
 
 > Si el termux se cierra para volver activar si la instlacion 
 fue en via GitHub solo debera escribir:
-> cd ShadowBotV3
+> cd UPEAMIGOS
 > npm start 
 
 > Si el termux se cierra para volver activar si la instlacion 
 fue en via archivos solo debera escribir:
-> cd storage/downloads/ShadowBotV3
+> cd storage/downloads/UPEAMIGOS
 > npm start
 
 > cada vez que realices una modificacion en el
